@@ -5,6 +5,8 @@
 **功能：
 */
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 //This is readme text!
 int main()
 {
