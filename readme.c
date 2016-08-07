@@ -5,4 +5,9 @@
 **功能：
 */
 
-This is readme text!
+//This is readme text!
+int main()
+{
+
+    return 0;
+}
