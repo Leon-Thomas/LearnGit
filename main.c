@@ -10,10 +10,17 @@
 /*
  * do something for debuging
  */
+
+int max(int a, int b)
+{
+    return a>b ? a:b;
+}
+
 int main()
 {
     printf("hello world!\n");
     printf("This Git world!\n");
     return 0;
 }
+
 
