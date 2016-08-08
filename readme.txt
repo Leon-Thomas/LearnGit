@@ -1,2 +1,2 @@
 This is a description file.
-Create a branch is quick & simple.
+Create a branch is quick AND simple.
