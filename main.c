@@ -15,6 +15,10 @@ int max(int a, int b)
 {
     return a>b ? a:b;
 }
+void fun()
+{
+    printf("Have fun!\n");
+}
 
 int main()
 {
