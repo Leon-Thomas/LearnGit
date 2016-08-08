@@ -20,6 +20,11 @@ void fun()
     printf("Have fun!\n");
 }
 
+void usage()
+{
+    printf("Uage:Nothing.");
+}
+
 int main()
 {
     printf("hello world!\n");
