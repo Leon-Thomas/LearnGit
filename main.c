@@ -16,6 +16,11 @@ int max(int a, int b)
     return a>b ? a:b;
 }
 
+void usage()
+{
+    printf("Uage:Nothing.");
+}
+
 int main()
 {
     printf("hello world!\n");
