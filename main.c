@@ -7,7 +7,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+/*
+ * do something for debuging
+ */
 int main()
 {
     printf("hello world!\n");
